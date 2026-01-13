@@ -1,5 +1,7 @@
 # Intelligence Collective (text/ic)
 
+> **Note:** This is the new home of the original [ic-js](https://github.com/owise1/ic-js) documentation first committed in 2021.
+
 > you know how sometimes you're like "this is like that" and "that is like this"? well, this is like that
 
 
