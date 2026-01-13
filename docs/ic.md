@@ -15,9 +15,7 @@ Every new splooge of tech needs a dumb word and this is ours.  But don't worry, 
 
 `Thots` are just text, but you can think of them like a digital version of thoughts. They are our thoughts when we put them into a computer. Clearly something is lost, but it's so much more *efficient*.  Shorter `thots` like "cool" and "brilliant" can be used to tie huge numbers of things together.  As `thots` get longer ("it's quite possible this is not what they intended") and/or more idiosyncratic ("i guess you're right that I didn't technically eat a shoehorn"), *and* as the collections of `thots` grow and grow, they can be used to connect like minds, or explore new ones.
 
-![thots](https://bafybeicwgfnln5rakyebzhvapv2w3cwr7nlnz4jsbpcvrwmghwq2ndm2um.ipfs.nftstorage.link/)
-
-*(Note: This IPFS image is no longer available as of January 2026)*
+![thots](../assets/thots.png)
 
 Because `thots` are just text *and* so much other stuff online is also just text, `thots` can also represent those online things. For example:
 
@@ -36,9 +34,7 @@ Also, if it makes you more comfortable, you can just call them "tags". We're old
 
 Here's an example. Sometimes, when I see something I want I literally think:
 
-!["i want that"](https://bafybeig7xsqsxnp57xvxmksnihhkjz5ll5v6rslgnqsbolpr2x5atgg7fa.ipfs.nftstorage.link/)
-
-*(Note: This IPFS image is no longer available as of January 2026)*
+!["i want that"](https://i.imgur.com/EaFwl8Y.gif)
 
 I hear that voice in my head, vaguely imagine this scene from Napoleon Dynamite and, depending on who's around, I may even attempt to immitate this character. Online I might react with this gif. If the object of my desire was, say, a ham sandwich I could represent that like:
 
